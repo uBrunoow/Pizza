@@ -1,6 +1,6 @@
 # PADRÃO DE PROJETO BUILDER: CONSTRUÇÃO EFICIENTE DE OBJETOS COMPLEXOS
 
-**Autor:** Manus AI  
+**Autor:** Bruno Werner
 **Disciplina:** Programação Orientada a Objetos  
 **Data:** 2025
 
